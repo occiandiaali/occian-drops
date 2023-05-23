@@ -1,6 +1,6 @@
 # Next.js, Tailwind CSS and MDX Blog project
 
-![Final result](./public/preview.gif)
+<!-- ![Final result](./public/preview.gif) -->
 ## Getting Started
 
 First, run the development server:
