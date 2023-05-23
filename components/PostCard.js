@@ -8,7 +8,7 @@ function PostCard({ title, date, description, slug }) {
       <p className="mt-4 italic">{description}</p>
 
       <Link href="/[slug]" as={`/${slug}`}>
-        <a className="text-blue-500 mt-4 mb-2 block">Read more</a>
+        <a className="text-blue-500 mt-4 mb-2 block">Details &raquo;</a>
       </Link>
     </div>
   );
