@@ -8,7 +8,7 @@ function Post({ data, content }) {
   return (
     <div>
       <Link href="/">
-        <a className="text-blue-400 text-lg">&#x219a; back</a>
+        <a className="text-blue-400 text-lg">&#x219a; all drops</a>
       </Link>
       <h1 className="font-bold text-7xl mt-24 mb-12">{data.title}</h1>
       <time className="text-gray-500 italic">{data.date}</time>
