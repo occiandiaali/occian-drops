@@ -9,7 +9,7 @@ function classNames(...classes) {
 export default function Socials() {
   return (
     <Menu as="div" className="relative inline-block text-left mr-4">
-      <div>
+      <div className="mb-3">
         <Menu.Button className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 mr-2">
           Socials
           <ChevronDownIcon

@@ -35,13 +35,13 @@ function Header() {
       className="flex justify-between my-8 items-center sticky top-0"
     >
       <h1 className="font-medium text-xl ">Occian Drops 💧</h1>
-      <div className="flex">
+      <div className="ml-16">
         <Socials />
         <a
           href="https://i-am-occian.firebaseapp.com"
           target="_blank"
           rel="noopener noreferrer"
-          className="pt-1 mr-2 md:pt-1"
+          className="mt-4 ml-4 md:pt-1"
         >
           Portfolio
         </a>
