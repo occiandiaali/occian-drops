@@ -38,7 +38,7 @@ function Header() {
       <div className="ml-16">
         <Socials />
         <a
-          href="https://i-am-occian.firebaseapp.com"
+          href="https://occian-diaali.netlify.app"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 ml-4 md:pt-1"
